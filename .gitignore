@@ -68,8 +68,6 @@ index.html
 
 
 # secrets and local tooling
-.env
-.env.*
 !.env.example
 *.pem
 *service-account*.json
@@ -82,3 +80,4 @@ dist/
 config.bat
 temp_auto_push.bat
 temp_interactive_push.bat
+.vercel
